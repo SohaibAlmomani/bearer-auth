@@ -114,4 +114,8 @@ Refer to the the [Submitting Express Server Lab Submission Instructions](../../.
 
 # Assignment Submission :
 
-- [Heroku Main Deploy]()
+## - [Heroku Main Deploy](https://sohaib-bearer-auth-main.herokuapp.com/)
+
+# UML Diagram :
+
+![UML-bearer-auth](./assets/UML-bearer-auth.jpg)
